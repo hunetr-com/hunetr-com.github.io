@@ -1,0 +1,8 @@
+theme: jekyll-theme-minimal
+name: hunetr
+title: hunetr
+defaults:
+- scope:
+    path: "img"
+  values:
+    iamge: true
