@@ -1,4 +1,4 @@
 ---
-permalink: /error/auth/
+permalink: /error/auth
 ---
 # auth error
