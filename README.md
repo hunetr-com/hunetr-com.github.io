@@ -1,2 +1,1 @@
-# hunetr
-stealth startup
+# stealth startup
